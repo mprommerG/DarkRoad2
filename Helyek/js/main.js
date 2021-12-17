@@ -25,7 +25,7 @@ function createMap(){
     
     //create the map*/
     var map = L.map('map', {
-        center: [47.00, 18.00],//Coordinated to center the map
+        center: [31.00, -5],//Coordinated to center the map
         zoom: 6, //zoom level
         layers:darkRoad //basemap
     });
